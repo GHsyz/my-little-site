@@ -1,0 +1,14 @@
+# files under public folder
+public/
+
+# R files
+.Rprofile
+.Rproj.user
+.RData
+.Rhistory
+
+# hugo 
+.hugo_build.lock
+
+# .DS_Store
+.DS_Store
