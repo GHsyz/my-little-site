@@ -1,5 +1,5 @@
 theme: "hugo-PaperMod"
-baseURL: http://example.org/
+baseURL: https://www.leishuya.com/
 languageCode: en-us
 title: My New Site
 paginate: 5

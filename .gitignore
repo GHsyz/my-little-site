@@ -1,5 +1,6 @@
-# files under public folder
-public/
+# build site on netlify
+/public/
+/resources/
 
 # R files
 .Rprofile
@@ -7,8 +8,7 @@ public/
 .RData
 .Rhistory
 
-# hugo 
+# safely ignore
 .hugo_build.lock
-
-# .DS_Store
 .DS_Store
+Thumbs.db
